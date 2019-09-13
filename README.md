@@ -1,5 +1,5 @@
-# 3DTestModels
-A collection of common 3D models for testing
+# Test Assets
+A collection of common 3D models, images, etc. for testing
 
 ### Acknowledgement 
 #### Danish Statue
