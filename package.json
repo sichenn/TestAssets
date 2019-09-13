@@ -1,0 +1,8 @@
+{
+    "name": "sichenn.testassets",
+    "displayName": "Test Assets",
+    "version": "0.0.1",
+    "unity": "2019.1",
+    "description": "This package contains a collection of common 3D models, images, etc. for testing.",
+    "dependencies": {}
+}
